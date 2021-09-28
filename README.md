@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Eius
-- 👀 I’m interested in ... 
+- 👀 I’m interested in machine learning
 - 🌱 I’m currently learning Python and OpenCV
 - 📫 Reach me here: zacikmarek@gmail.com
 
