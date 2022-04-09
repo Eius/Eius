@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Eius
-- 👀 I’m interested in machine learning
-- 🌱 I’m currently learning Python and OpenCV
+- 👀 I’m interested in game development
+- 🌱 I’m currently learning Unreal Engine and C++
 - 📫 Reach me here: zacikmarek@gmail.com
 
 <!---
